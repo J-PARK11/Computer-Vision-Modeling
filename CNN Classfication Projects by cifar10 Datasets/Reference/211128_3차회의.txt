@@ -1,0 +1,15 @@
+[ 211128 회의 내용 ]
+ㆍ 해야할 일 
+1. 채널을 Gray 채널로 변환
+2. One-Hot Encoding 
+3. Hog Desriptor
+4. cifar10 이미지 분류 소스코드 찾아서 구동 실험.
+
+ㆍ다음 시간 내용
+CNN 신경망 완성
+시각화
+보고서 작성
+def predict_data(image):
+ ~~~~~~~~~~~~
+
+
