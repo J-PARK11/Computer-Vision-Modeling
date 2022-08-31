@@ -2,8 +2,8 @@
 Documents and codes of competitions related to Computer Vision Modeling
 
 ## 📑 Index
-* 🌟Image Based Fashion Recommendation System
-* 🌟Animal Image Dataset Classification
+* 🌟 Image Based Fashion Recommendation System
+* 🌟 Animal Image Dataset Classification
 * ML Image Classfication Projects by MNIST Datasets
 * Object Image Classification Contest
 * CNN Classfication Projects by Cifar10 Datasetsc
