@@ -33,11 +33,12 @@ Raw Data Source - [Fashion Recommendation System Raw Data Source](https://aihub.
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Model%20Overview.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Similarity.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/top10%20result.png" width = '800'/></p>
-### Stacks
+
+### Stacks   
 - **Python**   
-    (Tensorflow, Keras, Sckit-learn, OpenCV, Pandas, Numpy, Matplotlib)
+    (Tensorflow, Keras, Sckit-learn, OpenCV, Pandas, Numpy, Matplotlib)   
 - **Streamlit**   
-    (Dashboard Design, Model Embedding, Visualization)
+    (Dashboard Design, Model Embedding, Visualization)   
 
 
 ## 🐾 Animal Image Dataset Classification
@@ -48,8 +49,8 @@ Raw Data Source - [Animal Image Classification Raw Data Source](https://www.kagg
 ### Contents
 > Kaggle : Animal Image Dataset(DOG, CAT and PANDA)을 활용하여 CNN Image Classification Model을 학습하고, Learning Curve와 여러 평가 지표를 토대로 추가적인 Image Correction 및 Preprocessing 과정 수행.   
 
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Animal%20Image%20Dataset%20Classification/figure/3%20fig.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Animal%20Image%20Dataset%20Classification/figure/emphasis%20fig.png" width = '800'/></p>
+<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Animal%20Image%20Dataset%20Classification/figure/3%20fig.png" width = '600'/></p>
+<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Animal%20Image%20Dataset%20Classification/figure/emphasis%20fig.png" width = '600'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Animal%20Image%20Dataset%20Classification/figure/total%20fig.png" width = '800'/></p>
 
 ### Stacks
