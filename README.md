@@ -30,6 +30,7 @@ Raw Data Source - [Fashion Recommendation System Raw Data Source](https://aihub.
 
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/My%20Style%20Manager.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Service%20Flowchart.png" width = '800'/></p>
+<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Preprocessing.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Model%20Overview.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Similarity.png" width = '800'/></p>
 <p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/top10%20result.png" width = '800'/></p>
